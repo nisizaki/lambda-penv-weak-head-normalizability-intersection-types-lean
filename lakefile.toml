@@ -1,0 +1,10 @@
+name = "LambdaPEnvWH"
+version = "0.1.0"
+defaultTargets = ["LambdaPEnvWH"]
+
+[[lean_lib]]
+name = "LambdaPEnvWH"
+
+[leanOptions]
+autoImplicit = false
+relaxedAutoImplicit = false
