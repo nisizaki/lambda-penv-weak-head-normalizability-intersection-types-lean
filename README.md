@@ -89,3 +89,7 @@ LambdaPEnvWH/*.lean                                  one file per Isabelle theor
 ## How to cite
 
 Cite the paper quoted at the top of this file.
+
+## License
+
+MIT License (see [LICENSE](LICENSE)).
